@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joana928&label=Profile%20views&color=0e75b6&style=flat" alt="joana928" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joana928" alt="joana928" /></a> </p>
-
 - 🔭 I’m currently working on [Autonomous Raspberry Pi Car](https://github.com/JoanA928/raspberry-autonomous-car)
 
 - 🌱 I’m currently learning **How to contribute to the Linux kernel**
