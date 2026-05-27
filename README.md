@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">A nerdy Computer Science student obsessed with Linux and embedded systems</h3>
+<h1 align="center">Hello 👋</h1>
+<h3 align="center">I'm a nerdy Computer Science student obsessed with Linux and embedded systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joana928&label=Profile%20views&color=0e75b6&style=flat" alt="joana928" /> </p>
 
