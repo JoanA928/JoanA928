@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **How to contribute to the Linux kernel**
 
-- 🤝 I’m looking for help with [Linux Kernel](https://github.com/torvalds/linux)
-
 - 📫 How to reach me **Joshua.muhammad928@gmail.com**
 
 - ⚡ Fun fact **I'm obssed with Frank Herbert's Dune series, including the prequels by Brian Herbert and Kevin J Anderson**
